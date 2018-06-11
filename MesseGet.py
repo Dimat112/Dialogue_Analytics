@@ -12,7 +12,7 @@ session = vk.Session(access_token=TOKEN)
 api = vk.API(session, v = version_api )
 
 
-#Достаем список сообщений	
+#Достаем список сообщений
 def messages_get(my_id, friend_id, reverse = 1):
 	messages = api.messages.getHistory(uid=my_id, offset=start, user_id=friend_id, rev=reverse, count=200)
 	return messages
