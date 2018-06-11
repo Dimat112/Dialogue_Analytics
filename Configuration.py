@@ -1,5 +1,3 @@
-#Данные VK
-APP_ID = '' #API Standalone приложения
 TOKEN = '' #Ваш token
 MY_ID = '' #Ваш Id VK
 FRIEND_ID = '' #Id собеседника
