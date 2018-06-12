@@ -6,4 +6,4 @@ Vk message analysis
 -----------
 1.Вписать свои данные в Configuration
 
-2.Запусть MesseGet
+2.Запустить MesseGet
